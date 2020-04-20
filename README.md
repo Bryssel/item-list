@@ -1,7 +1,7 @@
-# This is the GitHub repo for my own TwitchToolkit purchaselist
+## This is the GitHub repo for my own TwitchToolkit purchaselist
 
 
-#### Tutorial
+### Tutorial
 
 
 1. Fork Repo
