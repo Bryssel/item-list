@@ -82,17 +82,17 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
 		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "volcanicwinter",
+		"price": 3200,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "eclipse",
-		"price": 500,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 250,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -117,17 +117,17 @@
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 350,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 750,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 300,
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 450,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,7 +162,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 250,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 100,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -217,12 +217,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2000,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2500,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,12 +272,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
